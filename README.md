@@ -1,8 +1,6 @@
 ![Community Banner](/community-banner.png)
 
 <br/>
-<br/>
-<br/>
 
 # 👋 Welcome to the QED Community! 
 We’re using Discussions as a place to connect with other members of our community. We hope that you:
