@@ -26,17 +26,17 @@ QED or mathematics in general. You can get started by clicking on the [discussio
 Here are a list of links for quick reference.
 
 ### Discussions
-[📣 Announcements](https://github.com/qedhere/community/discussions/categories/announcements)
+[📣 Announcements](https://github.com/orgs/qedhere/discussions/categories/announcements)
 
-[💬 General](https://github.com/qedhere/community/discussions/categories/general)
+[💬 General](https://github.com/orgs/qedhere/discussions/categories/general)
 
-[💡 Ideas](https://github.com/qedhere/community/discussions/categories/ideas)
+[💡 Ideas](https://github.com/orgs/qedhere/discussions/categories/ideas)
 
-[🗳 Polls](https://github.com/qedhere/community/discussions/categories/polls)
+[🗳 Polls](https://github.com/orgs/qedhere/discussions/categories/polls)
 
-[🙏 Q&A](https://github.com/qedhere/community/discussions/categories/q-a)
+[🙏 Q&A](https://github.com/orgs/qedhere/discussions/categories/q-a)
 
-[🙌 Show an tell](https://github.com/qedhere/community/discussions/categories/show-and-tell)
+[🙌 Show an tell](https://github.com/orgs/qedhere/discussions/categories/show-and-tell)
 
 <br/>
 
